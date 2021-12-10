@@ -1,0 +1,27 @@
+h1 {
+	font-size: 50px;
+	color: red;}
+.new { 
+background: blue;
+height: 75px;
+width:100px;
+color: white;
+margin-bottom: 100px;
+}
+span {
+	color: red;
+}
+h2 {
+	background: green;
+	color: white;
+}
+.second{
+	padding: 40px 40px 40px 30px;
+}
+.third {
+	padding-left: 50px;
+}
+.table li {
+   font-size: 20px;
+    border: 1px solid black;
+}
